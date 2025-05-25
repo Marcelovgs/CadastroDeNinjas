@@ -1,0 +1,2 @@
+CREATE USER IF NOT EXISTS cadastro_db PASSWORD 'cadastro_db';
+GRANT ALL ON SCHEMA PUBLIC TO cadastro_db;
